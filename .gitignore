@@ -1,0 +1,15 @@
+*.exe
+*.out
+*.o
+*.obj
+
+*.pem
+*.crt
+*.csr
+*.key
+
+
+CertificateSelfSigned-*/
+CertificateRequestSign-*/
+
+.vscode/
