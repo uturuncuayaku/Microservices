@@ -1,3 +1,6 @@
+## Warning
+Usually you can attach a password to these certificates using the command line. These are password-less at this stage for development purposes. Storing them password-less has the ease of use of restarting the server easily without manual intervention using systemd on Linux.
+
 # Certificate Generator
 
 This project uses the OpenSSL library to generate:
